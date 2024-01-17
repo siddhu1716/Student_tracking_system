@@ -1,6 +1,8 @@
 # Student_tracking_system
 
-to run it in your local computer clone the project and install the requirements.txt file make sure you create a virtual environment in your computer and run the project
+to run it in your local computer clone the project and install the requirements.txt file make sure you create a virtual environment in your computer and run the project 
+
+Run Trial.py file for the output
 
 you can give any of your images in the image_attendance folder the model will automatically train your face and detect it
 
