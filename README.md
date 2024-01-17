@@ -1,5 +1,7 @@
 # Student_tracking_system
 
+## refer csm 10 report
+
 to run it in your local computer clone the project and install the requirements.txt file make sure you create a virtual environment in your computer and run the project 
 
 Run Trial.py file for the output
