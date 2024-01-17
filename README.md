@@ -1,6 +1,6 @@
 # Student_tracking_system
 
-## refer csm 10 report
+## refer Csm10 Project status.docx
 
 to run it in your local computer clone the project and install the requirements.txt file make sure you create a virtual environment in your computer and run the project 
 
